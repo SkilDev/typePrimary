@@ -1,0 +1,15 @@
+/home/eugene/vsC#Project/typePrimary/bin/Debug/net6.0/typePrimary
+/home/eugene/vsC#Project/typePrimary/bin/Debug/net6.0/typePrimary.deps.json
+/home/eugene/vsC#Project/typePrimary/bin/Debug/net6.0/typePrimary.runtimeconfig.json
+/home/eugene/vsC#Project/typePrimary/bin/Debug/net6.0/typePrimary.dll
+/home/eugene/vsC#Project/typePrimary/bin/Debug/net6.0/ref/typePrimary.dll
+/home/eugene/vsC#Project/typePrimary/bin/Debug/net6.0/typePrimary.pdb
+/home/eugene/vsC#Project/typePrimary/obj/Debug/net6.0/typePrimary.csproj.AssemblyReference.cache
+/home/eugene/vsC#Project/typePrimary/obj/Debug/net6.0/typePrimary.GeneratedMSBuildEditorConfig.editorconfig
+/home/eugene/vsC#Project/typePrimary/obj/Debug/net6.0/typePrimary.AssemblyInfoInputs.cache
+/home/eugene/vsC#Project/typePrimary/obj/Debug/net6.0/typePrimary.AssemblyInfo.cs
+/home/eugene/vsC#Project/typePrimary/obj/Debug/net6.0/typePrimary.csproj.CoreCompileInputs.cache
+/home/eugene/vsC#Project/typePrimary/obj/Debug/net6.0/typePrimary.dll
+/home/eugene/vsC#Project/typePrimary/obj/Debug/net6.0/ref/typePrimary.dll
+/home/eugene/vsC#Project/typePrimary/obj/Debug/net6.0/typePrimary.pdb
+/home/eugene/vsC#Project/typePrimary/obj/Debug/net6.0/typePrimary.genruntimeconfig.cache
